@@ -1,0 +1,12 @@
+.primary{
+    background: rgb(190, 23, 23);
+    color: white;
+    text-align: center;
+}
+
+
+.secondary{
+    background: rgb(23, 190, 34);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
